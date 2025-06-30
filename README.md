@@ -23,17 +23,6 @@ It was created as a learning project to practice working with:
 2. Open `index.html` in your browser.
 3. Add tasks and manage your list.
 
-## Folder Structure
-
-.
-├── index.html
-├── style.css
-└── script.js
-
-markdown
-Copy
-Edit
-
 ## What I Learned
 
 - Attaching events to DOM elements
